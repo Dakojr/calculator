@@ -24,10 +24,10 @@ yarn
 
 ## After installing the dependencies you can start the servers
 
-calculator ( back )
+calculator-b ( back )
 
 ```
-cd calulator/calculator
+cd calulator/calculator-b
 symfony server:start
 ```
 
