@@ -3,7 +3,7 @@ A calculator in React, Material-UI &amp; Symfony 5
 
 System Requirements
 - Symfony 5
-- composer
+- Composer
 - NodeJs > 12.21
 
 ## Install Dependencies
@@ -11,8 +11,8 @@ System Requirements
 calculator ( back )
 
 ```
-cd calulator/calculator
-composer require
+cd calulator/calculator-b
+composer install
 ```
 
 calculator-front ( front )
